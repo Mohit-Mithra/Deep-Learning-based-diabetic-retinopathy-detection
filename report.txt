@@ -1,0 +1,20 @@
+Densenet 0- batch size 36
+
+8 epocs - 0.808
+
+15 epochs LR = 0.00005
+- 0.8181818181818182
+
+
+LR = 0.0001 - 0.84
+
+LR = 0.001 - 0.29
+
+LR = 0.0005 - 0.8236363636363636
+
+LR = 0.0008 - 0.8472727272727273
+
+Inception-Resnet Model
+
+Batch size = 36 LR - 0.001 15 epochs 0.7909090909090909
+Batch size = 16 LR - 0.001 15 epochs 0.8381818181818181
